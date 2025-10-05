@@ -228,6 +228,6 @@ https://github-readme-activity-graph.cyclic.app/graph?username=nandamaull244&the
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
-![snake gif](https://github.com/nandamaull24/nandamaull24/blob/output/snake.svg)
+![snake gif](https://github.com/nandamaull24/nandamaull244/blob/output/snake.svg)
 
 
